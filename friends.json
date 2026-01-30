@@ -1,0 +1,26 @@
+[
+ {
+  "name": "Egor",
+  "surname": "Nedbaev",
+  "age": 22,
+  "work": "cs2 school"
+ },
+ {
+  "name": "Natasha",
+  "surname": "Chernysheva",
+  "age": 22,
+  "work": null
+ },
+ {
+  "name": "Gena",
+  "surname": "Nikonov",
+  "age": 24,
+  "work": "Builder"
+ },
+ {
+  "name": "Andrey",
+  "surname": "Kovalyov",
+  "age": 25,
+  "work": "Police"
+ }
+]
